@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoSelly Micro-Site</title>
+    <link>http://prototype.goselly.com/index.xml</link>
+    <description>Recent content on GoSelly Micro-Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2017 11:23:45 +0900</lastBuildDate>
+    <atom:link href="http://prototype.goselly.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Other</title>
+      <link>http://prototype.goselly.com/post/3/</link>
+      <pubDate>Mon, 16 Jan 2017 11:23:45 +0900</pubDate>
+      
+      <guid>http://prototype.goselly.com/post/3/</guid>
+      <description>&lt;p&gt;This is the other contents.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Another</title>
+      <link>http://prototype.goselly.com/post/2/</link>
+      <pubDate>Mon, 16 Jan 2017 11:23:37 +0900</pubDate>
+      
+      <guid>http://prototype.goselly.com/post/2/</guid>
+      <description>&lt;p&gt;This is another contents.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Test for GoSelly micro site pages</title>
+      <link>http://prototype.goselly.com/post/1/</link>
+      <pubDate>Mon, 24 Oct 2016 16:53:46 +0900</pubDate>
+      
+      <guid>http://prototype.goselly.com/post/1/</guid>
+      <description>&lt;p&gt;This is dummy content&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
