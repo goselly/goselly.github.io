@@ -6,8 +6,22 @@
     <description>Recent content on GoSelly Micro-Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 Feb 2017 17:44:47 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2017 21:28:04 +0900</lastBuildDate>
     <atom:link href="https://goselly.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>6th content</title>
+      <link>https://goselly.github.io/post/6/</link>
+      <pubDate>Tue, 07 Feb 2017 21:28:04 +0900</pubDate>
+      
+      <guid>https://goselly.github.io/post/6/</guid>
+      <description>
+
+&lt;h1 id=&#34;content-goes-here&#34;&gt;Content goes here&lt;/h1&gt;
+
+&lt;p&gt;Blah blah blah.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>5th content</title>
