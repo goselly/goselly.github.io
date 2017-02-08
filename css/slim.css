@@ -178,7 +178,8 @@ button,
 
 .site-title {
   font-size: 1.5rem;
-  font-weight: 700; }
+  font-weight: 700;
+  background-color: #0b184a }
   .site-title a {
     color: #333; }
 
