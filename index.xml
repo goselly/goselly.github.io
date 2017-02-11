@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GoSelly | ShowCase</title>
-    <link>http://showcase.goelly.com/index.xml</link>
+    <link>/index.xml</link>
     <description>Recent content on GoSelly | ShowCase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Feb 2017 21:31:37 +0900</lastBuildDate>
-    <atom:link href="http://showcase.goelly.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>7th Content</title>
-      <link>http://showcase.goelly.com/post/7/</link>
+      <link>/post/7/</link>
       <pubDate>Tue, 07 Feb 2017 21:31:37 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/7/</guid>
+      <guid>/post/7/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;//www.youtube.com/embed/o6gZViaVtJs&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
@@ -29,10 +29,10 @@
     
     <item>
       <title>6th content</title>
-      <link>http://showcase.goelly.com/post/6/</link>
+      <link>/post/6/</link>
       <pubDate>Tue, 07 Feb 2017 21:28:04 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/6/</guid>
+      <guid>/post/6/</guid>
       <description>
 
 &lt;h1 id=&#34;content-goes-here&#34;&gt;Content goes here&lt;/h1&gt;
@@ -43,50 +43,50 @@
     
     <item>
       <title>5th content</title>
-      <link>http://showcase.goelly.com/post/2017/2/7/2/</link>
+      <link>/post/2017/2/7/2/</link>
       <pubDate>Tue, 07 Feb 2017 17:44:47 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/2017/2/7/2/</guid>
+      <guid>/post/2017/2/7/2/</guid>
       <description>&lt;p&gt;This is 5th content to test static deployment automation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>4th content</title>
-      <link>http://showcase.goelly.com/post/2017/2/7/1/</link>
+      <link>/post/2017/2/7/1/</link>
       <pubDate>Tue, 07 Feb 2017 17:44:36 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/2017/2/7/1/</guid>
+      <guid>/post/2017/2/7/1/</guid>
       <description>&lt;p&gt;This is 4th content to test static deployment automation.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Other</title>
-      <link>http://showcase.goelly.com/post/3/</link>
+      <link>/post/3/</link>
       <pubDate>Mon, 16 Jan 2017 11:23:45 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/3/</guid>
+      <guid>/post/3/</guid>
       <description>&lt;p&gt;This is the other contents.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Another</title>
-      <link>http://showcase.goelly.com/post/2/</link>
+      <link>/post/2/</link>
       <pubDate>Mon, 16 Jan 2017 11:23:37 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/2/</guid>
+      <guid>/post/2/</guid>
       <description>&lt;p&gt;This is another contents.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Test for GoSelly micro site pages</title>
-      <link>http://showcase.goelly.com/post/1/</link>
+      <link>/post/1/</link>
       <pubDate>Mon, 24 Oct 2016 16:53:46 +0900</pubDate>
       
-      <guid>http://showcase.goelly.com/post/1/</guid>
+      <guid>/post/1/</guid>
       <description>&lt;p&gt;This is dummy content&lt;/p&gt;
 </description>
     </item>
