@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GoSelly | ShowCase</title>
+    <title>GoSelly ShowCase</title>
     <link>http://showcase.goselly.com/index.xml</link>
-    <description>Recent content on GoSelly | ShowCase</description>
+    <description>Recent content on GoSelly ShowCase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2017 12:45:05 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2017 14:59:03 +0900</lastBuildDate>
     <atom:link href="http://showcase.goselly.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://showcase.goselly.com/beauty/test/</link>
+      <pubDate>Wed, 15 Feb 2017 14:59:03 +0900</pubDate>
+      
+      <guid>http://showcase.goselly.com/beauty/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lorem ipsum dolor sit amet</title>
@@ -20,12 +29,13 @@
     </item>
     
     <item>
-      <title>15</title>
+      <title>Lorem ipsum dolor sit amet</title>
       <link>http://showcase.goselly.com/post/15/</link>
       <pubDate>Tue, 14 Feb 2017 12:45:02 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/15/</guid>
-      <description></description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -34,7 +44,8 @@
       <pubDate>Tue, 14 Feb 2017 12:44:59 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/14/</guid>
-      <description></description>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -43,7 +54,7 @@
       <pubDate>Tue, 14 Feb 2017 12:44:56 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/13/</guid>
-      <description>&lt;p&gt;Lorem Ipsum,&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -53,7 +64,7 @@
       <pubDate>Tue, 14 Feb 2017 12:44:53 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/12/</guid>
-      <description>&lt;p&gt;This is Coree Cosmetic&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -63,7 +74,7 @@
       <pubDate>Tue, 14 Feb 2017 12:44:50 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/11/</guid>
-      <description>&lt;p&gt;High Real; Not Lowreal.&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -73,7 +84,7 @@
       <pubDate>Tue, 14 Feb 2017 12:44:48 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/10/</guid>
-      <description>&lt;p&gt;Christana Diore&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -83,8 +94,27 @@
       <pubDate>Tue, 14 Feb 2017 12:44:44 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/9/</guid>
-      <description>&lt;p&gt;이거슨 아홉번쩨 제품입니다.
-상당히 많죠?&lt;/p&gt;
+      <description>&lt;p&gt;이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?
+이거슨 아홉번쩨 제품입니다. 상당히 많죠?&lt;/p&gt;
 </description>
     </item>
     
@@ -94,7 +124,7 @@
       <pubDate>Tue, 14 Feb 2017 10:57:32 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/8/</guid>
-      <description>&lt;p&gt;8th Cosmetic&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -124,11 +154,7 @@
       <pubDate>Tue, 07 Feb 2017 21:28:04 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/6/</guid>
-      <description>
-
-&lt;h1 id=&#34;content-goes-here&#34;&gt;Content goes here&lt;/h1&gt;
-
-&lt;p&gt;Blah blah blah.&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -138,7 +164,7 @@
       <pubDate>Tue, 07 Feb 2017 17:44:47 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/2017/2/7/2/</guid>
-      <description>&lt;p&gt;This is 5th content to test static deployment automation.&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -148,7 +174,7 @@
       <pubDate>Tue, 07 Feb 2017 17:44:36 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/2017/2/7/1/</guid>
-      <description>&lt;p&gt;This is 4th content to test static deployment automation.&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     
@@ -158,17 +184,7 @@
       <pubDate>Mon, 16 Jan 2017 11:23:45 +0900</pubDate>
       
       <guid>http://showcase.goselly.com/post/3/</guid>
-      <description>&lt;p&gt;This is the other contents.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2nd: Another</title>
-      <link>http://showcase.goselly.com/post/2/</link>
-      <pubDate>Mon, 16 Jan 2017 11:23:37 +0900</pubDate>
-      
-      <guid>http://showcase.goselly.com/post/2/</guid>
-      <description>&lt;p&gt;This is another contents.&lt;/p&gt;
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum lacinia luctus. Nunc cursus sapien non orci sollicitudin, sit amet sollicitudin lorem mollis. Integer in lacus sed arcu consectetur sodales in eget mi. Suspendisse condimentum nunc a pharetra finibus. Aenean porta, eros consectetur laoreet dictum, turpis eros pulvinar ex, nec congue ex nisi eu mi. Vivamus sollicitudin nisl ligula, ac facilisis ligula vehicula vel. Nam venenatis feugiat commodo. Pellentesque dictum dui quis dictum vestibulum. Nullam convallis, neque vel malesuada euismod, neque dolor lobortis massa, nec luctus lacus orci quis est. Ut non lacinia odio. Vestibulum finibus, erat at posuere aliquet, urna sapien bibendum nibh, quis auctor risus massa eget tellus. Aliquam tempus, enim ut aliquam bibendum, erat metus hendrerit risus, nec posuere neque diam in dui.&lt;/p&gt;
 </description>
     </item>
     

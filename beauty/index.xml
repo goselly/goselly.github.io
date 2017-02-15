@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beauty-rsses on GoSelly ShowCase</title>
+    <link>http://showcase.goselly.com/beauty/index.xml</link>
+    <description>Recent content in Beauty-rsses on GoSelly ShowCase</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Feb 2017 14:59:03 +0900</lastBuildDate>
+    <atom:link href="http://showcase.goselly.com/beauty/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://showcase.goselly.com/beauty/test/</link>
+      <pubDate>Wed, 15 Feb 2017 14:59:03 +0900</pubDate>
+      
+      <guid>http://showcase.goselly.com/beauty/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
