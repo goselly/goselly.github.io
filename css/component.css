@@ -146,7 +146,7 @@
 	color: #999;
 }
 
-.og-loading {
+.og-loading2 {
 	width: 20px;
 	height: 20px;
 	border-radius: 50%;
@@ -159,6 +159,17 @@
 	-webkit-animation: loader 0.5s infinite ease-in-out both;
 	-moz-animation: loader 0.5s infinite ease-in-out both;
 	animation: loader 0.5s infinite ease-in-out both;
+}
+
+.og-loading {
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	background: transparent;
+	background-image: url("/images/Kaleidoscope.gif");
+	position: absolute;
+	top: 20%;
+	left: 30%;
 }
 
 @-webkit-keyframes loader {
