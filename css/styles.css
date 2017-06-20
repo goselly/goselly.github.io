@@ -12,6 +12,8 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
     font-style: normal;
 }
 
+https://static.goselly.com/fonts/OpenSans-ExtraBold.woff
+
 @font-face {
     font-family: 'open_sans_bold';
     src: url('/font/OpenSans-Bold.woff') format('woff');
@@ -22,6 +24,20 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 @font-face {
     font-family: 'open_sans_semibold';
     src: url('/font/OpenSans-Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sans_bare';
+    src: url('https://s3.amazonaws.com/static.goselly.com/fonts/OpenSans-ExtraBold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'open_sans_cdn';
+    src: url('https://static.goselly.com/fonts/OpenSans-ExtraBold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
