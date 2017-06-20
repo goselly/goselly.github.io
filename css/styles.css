@@ -42,6 +42,18 @@ https://static.goselly.com/fonts/OpenSans-ExtraBold.woff
     font-style: normal;
 }
 
+.test_bare {
+    font-family: 'open_sans_bare';
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.test_cdn {
+    font-family: 'open_sans_cdn';
+    font-size: 20px;
+    font-weight: 600;
+}
+
 body{line-height:1}
 
 ol,ul{list-style:none}
