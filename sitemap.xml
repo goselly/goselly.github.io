@@ -37,17 +37,47 @@
   </url>
   
   <url>
+    <loc>https://goselly.com/beauty/1/socials/8/</loc>
+    <lastmod>2017-05-31T19:59:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/1/socials/9/</loc>
+    <lastmod>2016-10-24T16:53:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/1/socials/10/</loc>
+    <lastmod>2016-10-24T16:53:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/1/socials/11/</loc>
+    <lastmod>2016-10-24T16:53:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/1/socials/12/</loc>
+    <lastmod>2016-10-24T16:53:46+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/1/socials/13/</loc>
+    <lastmod>2016-10-24T16:53:46+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://goselly.com/beauty/1/backend/index.json</loc>
     <lastmod>2017-06-13T15:59:09+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://goselly.com/beauty/1/reviews/</loc>
+    <loc>https://goselly.com/beauty/1/review/</loc>
     <lastmod>2016-10-24T16:53:46+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://goselly.com/beauty/1/details/</loc>
+    <loc>https://goselly.com/beauty/1/detail/</loc>
     <lastmod>2016-10-24T16:53:46+09:00</lastmod>
   </url>
   
@@ -57,13 +87,23 @@
   </url>
   
   <url>
-    <loc>https://goselly.com/beauty/</loc>
-    <lastmod>2017-06-13T15:59:09+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://goselly.com/policy/</loc>
+    <lastmod>2016-06-26T12:15:15+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://goselly.com/categories/</loc>
+    <loc>https://goselly.com/terms/</loc>
+    <lastmod>2016-06-26T12:14:53+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/about/</loc>
+    <lastmod>2016-06-26T12:05:20+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://goselly.com/beauty/</loc>
+    <lastmod>2017-06-13T15:59:09+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -74,7 +114,7 @@
   </url>
   
   <url>
-    <loc>https://goselly.com/tags/</loc>
+    <loc>https://goselly.com/socials/</loc>
     <priority>0</priority>
   </url>
   
